@@ -1,2 +1,2 @@
 # FoodDate
-hello world2
+hello
